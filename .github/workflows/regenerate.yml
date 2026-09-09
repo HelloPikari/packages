@@ -1,0 +1,61 @@
+name: Regenerate package index
+
+on:
+  # Run this after publishing a plugin release — it is the fastest way to get the
+  # new version into the index.
+  workflow_dispatch:
+  # Safety net, so the index is never more than a day stale.
+  schedule:
+    - cron: '17 6 * * *'
+  # Wired up if a cross-repo PAT is ever added to the plugin repos; nothing
+  # dispatches here today, because GITHUB_TOKEN cannot dispatch across repos.
+  repository_dispatch:
+    types: [release-published]
+  push:
+    branches: [main]
+    paths:
+      - 'plugins.json'
+      - 'build-index.sh'
+      - '.github/workflows/regenerate.yml'
+
+permissions:
+  contents: write
+
+concurrency:
+  group: regenerate-index
+  cancel-in-progress: false
+
+jobs:
+  regenerate:
+    name: Rebuild docs/packages.json
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v6
+
+      - name: Build the index
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: ./build-index.sh
+
+      - name: Validate
+        run: |
+          jq -e '.packages | length > 0' docs/packages.json > /dev/null
+          # Every version must carry a dist URL, or a consumer silently gets nothing.
+          missing="$(jq -r '[.packages[][] | select(.dist.url == null or .dist.url == "")] | length' docs/packages.json)"
+          if [ "$missing" != "0" ]; then
+            echo "::error::$missing version(s) have no dist URL"
+            exit 1
+          fi
+          echo "Index OK: $(jq '[.packages[] | length] | add' docs/packages.json) versions across $(jq '.packages | length' docs/packages.json) packages."
+
+      - name: Commit if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          if git diff --quiet docs/packages.json; then
+            echo "No change."
+          else
+            git add docs/packages.json
+            git commit -m "chore: regenerate package index"
+            git push
+          fi

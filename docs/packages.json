@@ -1,0 +1,568 @@
+{
+  "packages": {
+    "pikari-inc/pikari-gutenberg-modals": {
+      "1.3.0": {
+        "name": "pikari-inc/pikari-gutenberg-modals",
+        "version": "1.3.0",
+        "description": "Beautiful modal windows for the WordPress block editor.",
+        "type": "wordpress-plugin",
+        "license": "GPL-2.0-or-later",
+        "require": {
+          "php": ">=8.4"
+        },
+        "extra": {
+          "installer-name": "pikari-gutenberg-modals"
+        },
+        "dist": {
+          "type": "zip",
+          "url": "https://github.com/HelloPikari/pikari-gutenberg-modals/releases/download/v1.3.0/pikari-gutenberg-modals-v1.3.0.zip",
+          "reference": "v1.3.0"
+        }
+      },
+      "1.2.2": {
+        "name": "pikari-inc/pikari-gutenberg-modals",
+        "version": "1.2.2",
+        "description": "Beautiful modal windows for the WordPress block editor.",
+        "type": "wordpress-plugin",
+        "license": "GPL-2.0-or-later",
+        "require": {
+          "php": ">=8.4"
+        },
+        "extra": {
+          "installer-name": "pikari-gutenberg-modals"
+        },
+        "dist": {
+          "type": "zip",
+          "url": "https://github.com/HelloPikari/pikari-gutenberg-modals/releases/download/v1.2.2/pikari-gutenberg-modals-v1.2.2.zip",
+          "reference": "v1.2.2"
+        }
+      },
+      "1.2.1": {
+        "name": "pikari-inc/pikari-gutenberg-modals",
+        "version": "1.2.1",
+        "description": "Beautiful modal windows for the WordPress block editor.",
+        "type": "wordpress-plugin",
+        "license": "GPL-2.0-or-later",
+        "require": {
+          "php": ">=8.4"
+        },
+        "extra": {
+          "installer-name": "pikari-gutenberg-modals"
+        },
+        "dist": {
+          "type": "zip",
+          "url": "https://github.com/HelloPikari/pikari-gutenberg-modals/releases/download/v1.2.1/pikari-gutenberg-modals-v1.2.1.zip",
+          "reference": "v1.2.1"
+        }
+      },
+      "1.2.0": {
+        "name": "pikari-inc/pikari-gutenberg-modals",
+        "version": "1.2.0",
+        "description": "Beautiful modal windows for the WordPress block editor.",
+        "type": "wordpress-plugin",
+        "license": "GPL-2.0-or-later",
+        "require": {
+          "php": ">=8.4"
+        },
+        "extra": {
+          "installer-name": "pikari-gutenberg-modals"
+        },
+        "dist": {
+          "type": "zip",
+          "url": "https://github.com/HelloPikari/pikari-gutenberg-modals/releases/download/v1.2.0/pikari-gutenberg-modals-v1.2.0.zip",
+          "reference": "v1.2.0"
+        }
+      },
+      "1.1.2": {
+        "name": "pikari-inc/pikari-gutenberg-modals",
+        "version": "1.1.2",
+        "description": "Beautiful modal windows for the WordPress block editor.",
+        "type": "wordpress-plugin",
+        "license": "GPL-2.0-or-later",
+        "require": {
+          "php": ">=8.4"
+        },
+        "extra": {
+          "installer-name": "pikari-gutenberg-modals"
+        },
+        "dist": {
+          "type": "zip",
+          "url": "https://github.com/HelloPikari/pikari-gutenberg-modals/releases/download/v1.1.2/pikari-gutenberg-modals-v1.1.2.zip",
+          "reference": "v1.1.2"
+        }
+      },
+      "1.1.1": {
+        "name": "pikari-inc/pikari-gutenberg-modals",
+        "version": "1.1.1",
+        "description": "Beautiful modal windows for the WordPress block editor.",
+        "type": "wordpress-plugin",
+        "license": "GPL-2.0-or-later",
+        "require": {
+          "php": ">=8.4"
+        },
+        "extra": {
+          "installer-name": "pikari-gutenberg-modals"
+        },
+        "dist": {
+          "type": "zip",
+          "url": "https://github.com/HelloPikari/pikari-gutenberg-modals/releases/download/v1.1.1/pikari-gutenberg-modals-v1.1.1.zip",
+          "reference": "v1.1.1"
+        }
+      },
+      "1.1.0": {
+        "name": "pikari-inc/pikari-gutenberg-modals",
+        "version": "1.1.0",
+        "description": "Beautiful modal windows for the WordPress block editor.",
+        "type": "wordpress-plugin",
+        "license": "GPL-2.0-or-later",
+        "require": {
+          "php": ">=8.4"
+        },
+        "extra": {
+          "installer-name": "pikari-gutenberg-modals"
+        },
+        "dist": {
+          "type": "zip",
+          "url": "https://github.com/HelloPikari/pikari-gutenberg-modals/releases/download/v1.1.0/pikari-gutenberg-modals-v1.1.0.zip",
+          "reference": "v1.1.0"
+        }
+      },
+      "1.0.1": {
+        "name": "pikari-inc/pikari-gutenberg-modals",
+        "version": "1.0.1",
+        "description": "Beautiful modal windows for the WordPress block editor.",
+        "type": "wordpress-plugin",
+        "license": "GPL-2.0-or-later",
+        "require": {
+          "php": ">=8.4"
+        },
+        "extra": {
+          "installer-name": "pikari-gutenberg-modals"
+        },
+        "dist": {
+          "type": "zip",
+          "url": "https://github.com/HelloPikari/pikari-gutenberg-modals/releases/download/v1.0.1/pikari-gutenberg-modals-v1.0.1.zip",
+          "reference": "v1.0.1"
+        }
+      },
+      "1.0.0": {
+        "name": "pikari-inc/pikari-gutenberg-modals",
+        "version": "1.0.0",
+        "description": "Beautiful modal windows for the WordPress block editor.",
+        "type": "wordpress-plugin",
+        "license": "GPL-2.0-or-later",
+        "require": {
+          "php": ">=8.4"
+        },
+        "extra": {
+          "installer-name": "pikari-gutenberg-modals"
+        },
+        "dist": {
+          "type": "zip",
+          "url": "https://github.com/HelloPikari/pikari-gutenberg-modals/releases/download/v1.0.0/pikari-gutenberg-modals-v1.0.0.zip",
+          "reference": "v1.0.0"
+        }
+      },
+      "0.1.5": {
+        "name": "pikari-inc/pikari-gutenberg-modals",
+        "version": "0.1.5",
+        "description": "Beautiful modal windows for the WordPress block editor.",
+        "type": "wordpress-plugin",
+        "license": "GPL-2.0-or-later",
+        "require": {
+          "php": ">=8.4"
+        },
+        "extra": {
+          "installer-name": "pikari-gutenberg-modals"
+        },
+        "dist": {
+          "type": "zip",
+          "url": "https://github.com/HelloPikari/pikari-gutenberg-modals/releases/download/v0.1.5/pikari-gutenberg-modals-v0.1.5.zip",
+          "reference": "v0.1.5"
+        }
+      },
+      "0.1.4": {
+        "name": "pikari-inc/pikari-gutenberg-modals",
+        "version": "0.1.4",
+        "description": "Beautiful modal windows for the WordPress block editor.",
+        "type": "wordpress-plugin",
+        "license": "GPL-2.0-or-later",
+        "require": {
+          "php": ">=8.4"
+        },
+        "extra": {
+          "installer-name": "pikari-gutenberg-modals"
+        },
+        "dist": {
+          "type": "zip",
+          "url": "https://github.com/HelloPikari/pikari-gutenberg-modals/releases/download/v0.1.4/pikari-gutenberg-modals-v0.1.4.zip",
+          "reference": "v0.1.4"
+        }
+      },
+      "0.1.3": {
+        "name": "pikari-inc/pikari-gutenberg-modals",
+        "version": "0.1.3",
+        "description": "Beautiful modal windows for the WordPress block editor.",
+        "type": "wordpress-plugin",
+        "license": "GPL-2.0-or-later",
+        "require": {
+          "php": ">=8.4"
+        },
+        "extra": {
+          "installer-name": "pikari-gutenberg-modals"
+        },
+        "dist": {
+          "type": "zip",
+          "url": "https://github.com/HelloPikari/pikari-gutenberg-modals/releases/download/v0.1.3/pikari-gutenberg-modals-v0.1.3.zip",
+          "reference": "v0.1.3"
+        }
+      },
+      "0.1.2": {
+        "name": "pikari-inc/pikari-gutenberg-modals",
+        "version": "0.1.2",
+        "description": "Beautiful modal windows for the WordPress block editor.",
+        "type": "wordpress-plugin",
+        "license": "GPL-2.0-or-later",
+        "require": {
+          "php": ">=8.4"
+        },
+        "extra": {
+          "installer-name": "pikari-gutenberg-modals"
+        },
+        "dist": {
+          "type": "zip",
+          "url": "https://github.com/HelloPikari/pikari-gutenberg-modals/releases/download/v0.1.2/pikari-gutenberg-modals-v0.1.2.zip",
+          "reference": "v0.1.2"
+        }
+      }
+    },
+    "pikari-inc/pikari-gutenberg-query-filter": {
+      "0.1.13": {
+        "name": "pikari-inc/pikari-gutenberg-query-filter",
+        "version": "0.1.13",
+        "description": "Filter controls for the query loop block, using the interactivity API.",
+        "type": "wordpress-plugin",
+        "license": "GPL-2.0-or-later",
+        "require": {
+          "php": ">=8.4"
+        },
+        "extra": {
+          "installer-name": "pikari-gutenberg-query-filter"
+        },
+        "dist": {
+          "type": "zip",
+          "url": "https://github.com/HelloPikari/pikari-gutenberg-query-filter/releases/download/v0.1.13/pikari-query-filter-v0.1.13.zip",
+          "reference": "v0.1.13"
+        }
+      },
+      "0.1.11": {
+        "name": "pikari-inc/pikari-gutenberg-query-filter",
+        "version": "0.1.11",
+        "description": "Filter controls for the query loop block, using the interactivity API.",
+        "type": "wordpress-plugin",
+        "license": "GPL-2.0-or-later",
+        "require": {
+          "php": ">=8.4"
+        },
+        "extra": {
+          "installer-name": "pikari-gutenberg-query-filter"
+        },
+        "dist": {
+          "type": "zip",
+          "url": "https://github.com/HelloPikari/pikari-gutenberg-query-filter/releases/download/v0.1.11/pikari-query-filter.zip",
+          "reference": "v0.1.11"
+        }
+      },
+      "0.1.10": {
+        "name": "pikari-inc/pikari-gutenberg-query-filter",
+        "version": "0.1.10",
+        "description": "Filter controls for the query loop block, using the interactivity API.",
+        "type": "wordpress-plugin",
+        "license": "GPL-2.0-or-later",
+        "require": {
+          "php": ">=8.4"
+        },
+        "extra": {
+          "installer-name": "pikari-gutenberg-query-filter"
+        },
+        "dist": {
+          "type": "zip",
+          "url": "https://github.com/HelloPikari/pikari-gutenberg-query-filter/releases/download/v0.1.10/pikari-query-filter.zip",
+          "reference": "v0.1.10"
+        }
+      },
+      "0.1.9": {
+        "name": "pikari-inc/pikari-gutenberg-query-filter",
+        "version": "0.1.9",
+        "description": "Filter controls for the query loop block, using the interactivity API.",
+        "type": "wordpress-plugin",
+        "license": "GPL-2.0-or-later",
+        "require": {
+          "php": ">=8.4"
+        },
+        "extra": {
+          "installer-name": "pikari-gutenberg-query-filter"
+        },
+        "dist": {
+          "type": "zip",
+          "url": "https://github.com/HelloPikari/pikari-gutenberg-query-filter/releases/download/v0.1.9/pikari-query-filter.zip",
+          "reference": "v0.1.9"
+        }
+      },
+      "0.1.8": {
+        "name": "pikari-inc/pikari-gutenberg-query-filter",
+        "version": "0.1.8",
+        "description": "Filter controls for the query loop block, using the interactivity API.",
+        "type": "wordpress-plugin",
+        "license": "GPL-2.0-or-later",
+        "require": {
+          "php": ">=8.4"
+        },
+        "extra": {
+          "installer-name": "pikari-gutenberg-query-filter"
+        },
+        "dist": {
+          "type": "zip",
+          "url": "https://github.com/HelloPikari/pikari-gutenberg-query-filter/releases/download/v0.1.8/pikari-query-filter.zip",
+          "reference": "v0.1.8"
+        }
+      },
+      "0.1.7": {
+        "name": "pikari-inc/pikari-gutenberg-query-filter",
+        "version": "0.1.7",
+        "description": "Filter controls for the query loop block, using the interactivity API.",
+        "type": "wordpress-plugin",
+        "license": "GPL-2.0-or-later",
+        "require": {
+          "php": ">=8.4"
+        },
+        "extra": {
+          "installer-name": "pikari-gutenberg-query-filter"
+        },
+        "dist": {
+          "type": "zip",
+          "url": "https://github.com/HelloPikari/pikari-gutenberg-query-filter/releases/download/v0.1.7/pikari-query-filter.zip",
+          "reference": "v0.1.7"
+        }
+      },
+      "0.1.6": {
+        "name": "pikari-inc/pikari-gutenberg-query-filter",
+        "version": "0.1.6",
+        "description": "Filter controls for the query loop block, using the interactivity API.",
+        "type": "wordpress-plugin",
+        "license": "GPL-2.0-or-later",
+        "require": {
+          "php": ">=8.4"
+        },
+        "extra": {
+          "installer-name": "pikari-gutenberg-query-filter"
+        },
+        "dist": {
+          "type": "zip",
+          "url": "https://github.com/HelloPikari/pikari-gutenberg-query-filter/releases/download/v0.1.6/pikari-query-filter.zip",
+          "reference": "v0.1.6"
+        }
+      },
+      "0.1.5": {
+        "name": "pikari-inc/pikari-gutenberg-query-filter",
+        "version": "0.1.5",
+        "description": "Filter controls for the query loop block, using the interactivity API.",
+        "type": "wordpress-plugin",
+        "license": "GPL-2.0-or-later",
+        "require": {
+          "php": ">=8.4"
+        },
+        "extra": {
+          "installer-name": "pikari-gutenberg-query-filter"
+        },
+        "dist": {
+          "type": "zip",
+          "url": "https://github.com/HelloPikari/pikari-gutenberg-query-filter/releases/download/v0.1.5/pikari-query-filter.zip",
+          "reference": "v0.1.5"
+        }
+      },
+      "0.1.4": {
+        "name": "pikari-inc/pikari-gutenberg-query-filter",
+        "version": "0.1.4",
+        "description": "Filter controls for the query loop block, using the interactivity API.",
+        "type": "wordpress-plugin",
+        "license": "GPL-2.0-or-later",
+        "require": {
+          "php": ">=8.4"
+        },
+        "extra": {
+          "installer-name": "pikari-gutenberg-query-filter"
+        },
+        "dist": {
+          "type": "zip",
+          "url": "https://github.com/HelloPikari/pikari-gutenberg-query-filter/releases/download/v0.1.4/pikari-query-filter.zip",
+          "reference": "v0.1.4"
+        }
+      },
+      "0.1.3": {
+        "name": "pikari-inc/pikari-gutenberg-query-filter",
+        "version": "0.1.3",
+        "description": "Filter controls for the query loop block, using the interactivity API.",
+        "type": "wordpress-plugin",
+        "license": "GPL-2.0-or-later",
+        "require": {
+          "php": ">=8.4"
+        },
+        "extra": {
+          "installer-name": "pikari-gutenberg-query-filter"
+        },
+        "dist": {
+          "type": "zip",
+          "url": "https://github.com/HelloPikari/pikari-gutenberg-query-filter/releases/download/v0.1.3/pikari-query-filter.zip",
+          "reference": "v0.1.3"
+        }
+      },
+      "0.1.2": {
+        "name": "pikari-inc/pikari-gutenberg-query-filter",
+        "version": "0.1.2",
+        "description": "Filter controls for the query loop block, using the interactivity API.",
+        "type": "wordpress-plugin",
+        "license": "GPL-2.0-or-later",
+        "require": {
+          "php": ">=8.4"
+        },
+        "extra": {
+          "installer-name": "pikari-gutenberg-query-filter"
+        },
+        "dist": {
+          "type": "zip",
+          "url": "https://github.com/HelloPikari/pikari-gutenberg-query-filter/releases/download/v0.1.2/pikari-query-filter.zip",
+          "reference": "v0.1.2"
+        }
+      },
+      "0.1.1": {
+        "name": "pikari-inc/pikari-gutenberg-query-filter",
+        "version": "0.1.1",
+        "description": "Filter controls for the query loop block, using the interactivity API.",
+        "type": "wordpress-plugin",
+        "license": "GPL-2.0-or-later",
+        "require": {
+          "php": ">=8.4"
+        },
+        "extra": {
+          "installer-name": "pikari-gutenberg-query-filter"
+        },
+        "dist": {
+          "type": "zip",
+          "url": "https://github.com/HelloPikari/pikari-gutenberg-query-filter/releases/download/v0.1.1/pikari-query-filter.zip",
+          "reference": "v0.1.1"
+        }
+      },
+      "0.1.0": {
+        "name": "pikari-inc/pikari-gutenberg-query-filter",
+        "version": "0.1.0",
+        "description": "Filter controls for the query loop block, using the interactivity API.",
+        "type": "wordpress-plugin",
+        "license": "GPL-2.0-or-later",
+        "require": {
+          "php": ">=8.4"
+        },
+        "extra": {
+          "installer-name": "pikari-gutenberg-query-filter"
+        },
+        "dist": {
+          "type": "zip",
+          "url": "https://github.com/HelloPikari/pikari-gutenberg-query-filter/releases/download/v0.1.0/pikari-query-filter.zip",
+          "reference": "v0.1.0"
+        }
+      }
+    },
+    "pikari-inc/pikari-team": {
+      "1.0.1": {
+        "name": "pikari-inc/pikari-team",
+        "version": "1.0.1",
+        "description": "Team member CPT with digital business cards, PWA card pages and vCard QR codes.",
+        "type": "wordpress-plugin",
+        "license": "GPL-2.0-or-later",
+        "require": {
+          "php": ">=8.4"
+        },
+        "extra": {
+          "installer-name": "pikari-team"
+        },
+        "dist": {
+          "type": "zip",
+          "url": "https://github.com/HelloPikari/pikari-team/releases/download/v1.0.1/pikari-team-v1.0.1.zip",
+          "reference": "v1.0.1"
+        }
+      },
+      "1.0.0": {
+        "name": "pikari-inc/pikari-team",
+        "version": "1.0.0",
+        "description": "Team member CPT with digital business cards, PWA card pages and vCard QR codes.",
+        "type": "wordpress-plugin",
+        "license": "GPL-2.0-or-later",
+        "require": {
+          "php": ">=8.4"
+        },
+        "extra": {
+          "installer-name": "pikari-team"
+        },
+        "dist": {
+          "type": "zip",
+          "url": "https://github.com/HelloPikari/pikari-team/releases/download/v1.0.0/pikari-team-v1.0.0.zip",
+          "reference": "v1.0.0"
+        }
+      },
+      "0.3.0": {
+        "name": "pikari-inc/pikari-team",
+        "version": "0.3.0",
+        "description": "Team member CPT with digital business cards, PWA card pages and vCard QR codes.",
+        "type": "wordpress-plugin",
+        "license": "GPL-2.0-or-later",
+        "require": {
+          "php": ">=8.4"
+        },
+        "extra": {
+          "installer-name": "pikari-team"
+        },
+        "dist": {
+          "type": "zip",
+          "url": "https://github.com/HelloPikari/pikari-team/releases/download/v0.3.0/pikari-team-v0.3.0.zip",
+          "reference": "v0.3.0"
+        }
+      },
+      "0.2.0": {
+        "name": "pikari-inc/pikari-team",
+        "version": "0.2.0",
+        "description": "Team member CPT with digital business cards, PWA card pages and vCard QR codes.",
+        "type": "wordpress-plugin",
+        "license": "GPL-2.0-or-later",
+        "require": {
+          "php": ">=8.4"
+        },
+        "extra": {
+          "installer-name": "pikari-team"
+        },
+        "dist": {
+          "type": "zip",
+          "url": "https://github.com/HelloPikari/pikari-team/releases/download/v0.2.0/pikari-team-v0.2.0.zip",
+          "reference": "v0.2.0"
+        }
+      },
+      "0.1.0": {
+        "name": "pikari-inc/pikari-team",
+        "version": "0.1.0",
+        "description": "Team member CPT with digital business cards, PWA card pages and vCard QR codes.",
+        "type": "wordpress-plugin",
+        "license": "GPL-2.0-or-later",
+        "require": {
+          "php": ">=8.4"
+        },
+        "extra": {
+          "installer-name": "pikari-team"
+        },
+        "dist": {
+          "type": "zip",
+          "url": "https://github.com/HelloPikari/pikari-team/releases/download/v0.1.0/pikari-team-v0.1.0.zip",
+          "reference": "v0.1.0"
+        }
+      }
+    }
+  }
+}

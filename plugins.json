@@ -1,0 +1,17 @@
+{
+  "pikari-gutenberg-modals": {
+    "composer-name": "pikari-inc/pikari-gutenberg-modals",
+    "description": "Beautiful modal windows for the WordPress block editor.",
+    "php": ">=8.4"
+  },
+  "pikari-gutenberg-query-filter": {
+    "composer-name": "pikari-inc/pikari-gutenberg-query-filter",
+    "description": "Filter controls for the query loop block, using the interactivity API.",
+    "php": ">=8.4"
+  },
+  "pikari-team": {
+    "composer-name": "pikari-inc/pikari-team",
+    "description": "Team member CPT with digital business cards, PWA card pages and vCard QR codes.",
+    "php": ">=8.4"
+  }
+}
