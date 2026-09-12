@@ -1,6 +1,24 @@
 {
   "packages": {
     "pikari-inc/pikari-gutenberg-modals": {
+      "2.1.0": {
+        "name": "pikari-inc/pikari-gutenberg-modals",
+        "version": "2.1.0",
+        "description": "Beautiful modal windows for the WordPress block editor.",
+        "type": "wordpress-plugin",
+        "license": "GPL-2.0-or-later",
+        "require": {
+          "php": ">=8.4"
+        },
+        "extra": {
+          "installer-name": "pikari-gutenberg-modals"
+        },
+        "dist": {
+          "type": "zip",
+          "url": "https://github.com/HelloPikari/pikari-gutenberg-modals/releases/download/v2.1.0/pikari-gutenberg-modals-v2.1.0.zip",
+          "reference": "v2.1.0"
+        }
+      },
       "2.0.0": {
         "name": "pikari-inc/pikari-gutenberg-modals",
         "version": "2.0.0",
@@ -527,6 +545,24 @@
       }
     },
     "pikari-inc/pikari-team": {
+      "1.0.2": {
+        "name": "pikari-inc/pikari-team",
+        "version": "1.0.2",
+        "description": "Team member CPT with digital business cards, PWA card pages and vCard QR codes.",
+        "type": "wordpress-plugin",
+        "license": "GPL-2.0-or-later",
+        "require": {
+          "php": ">=8.4"
+        },
+        "extra": {
+          "installer-name": "pikari-team"
+        },
+        "dist": {
+          "type": "zip",
+          "url": "https://github.com/HelloPikari/pikari-team/releases/download/v1.0.2/pikari-team-v1.0.2.zip",
+          "reference": "v1.0.2"
+        }
+      },
       "1.0.1": {
         "name": "pikari-inc/pikari-team",
         "version": "1.0.1",
