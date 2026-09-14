@@ -1,6 +1,42 @@
 {
   "packages": {
     "pikari-inc/pikari-gutenberg-modals": {
+      "2.2.1": {
+        "name": "pikari-inc/pikari-gutenberg-modals",
+        "version": "2.2.1",
+        "description": "Beautiful modal windows for the WordPress block editor.",
+        "type": "wordpress-plugin",
+        "license": "GPL-2.0-or-later",
+        "require": {
+          "php": ">=8.4"
+        },
+        "extra": {
+          "installer-name": "pikari-gutenberg-modals"
+        },
+        "dist": {
+          "type": "zip",
+          "url": "https://github.com/HelloPikari/pikari-gutenberg-modals/releases/download/v2.2.1/pikari-gutenberg-modals-v2.2.1.zip",
+          "reference": "v2.2.1"
+        }
+      },
+      "2.2.0": {
+        "name": "pikari-inc/pikari-gutenberg-modals",
+        "version": "2.2.0",
+        "description": "Beautiful modal windows for the WordPress block editor.",
+        "type": "wordpress-plugin",
+        "license": "GPL-2.0-or-later",
+        "require": {
+          "php": ">=8.4"
+        },
+        "extra": {
+          "installer-name": "pikari-gutenberg-modals"
+        },
+        "dist": {
+          "type": "zip",
+          "url": "https://github.com/HelloPikari/pikari-gutenberg-modals/releases/download/v2.2.0/pikari-gutenberg-modals-v2.2.0.zip",
+          "reference": "v2.2.0"
+        }
+      },
       "2.1.0": {
         "name": "pikari-inc/pikari-gutenberg-modals",
         "version": "2.1.0",
@@ -273,6 +309,42 @@
       }
     },
     "pikari-inc/pikari-gutenberg-query-filter": {
+      "0.3.2": {
+        "name": "pikari-inc/pikari-gutenberg-query-filter",
+        "version": "0.3.2",
+        "description": "Filter controls for the query loop block, using the interactivity API.",
+        "type": "wordpress-plugin",
+        "license": "GPL-2.0-or-later",
+        "require": {
+          "php": ">=8.4"
+        },
+        "extra": {
+          "installer-name": "pikari-gutenberg-query-filter"
+        },
+        "dist": {
+          "type": "zip",
+          "url": "https://github.com/HelloPikari/pikari-gutenberg-query-filter/releases/download/v0.3.2/pikari-gutenberg-query-filter-v0.3.2.zip",
+          "reference": "v0.3.2"
+        }
+      },
+      "0.3.1": {
+        "name": "pikari-inc/pikari-gutenberg-query-filter",
+        "version": "0.3.1",
+        "description": "Filter controls for the query loop block, using the interactivity API.",
+        "type": "wordpress-plugin",
+        "license": "GPL-2.0-or-later",
+        "require": {
+          "php": ">=8.4"
+        },
+        "extra": {
+          "installer-name": "pikari-gutenberg-query-filter"
+        },
+        "dist": {
+          "type": "zip",
+          "url": "https://github.com/HelloPikari/pikari-gutenberg-query-filter/releases/download/v0.3.1/pikari-gutenberg-query-filter-v0.3.1.zip",
+          "reference": "v0.3.1"
+        }
+      },
       "0.3.0": {
         "name": "pikari-inc/pikari-gutenberg-query-filter",
         "version": "0.3.0",
