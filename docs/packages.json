@@ -1,6 +1,24 @@
 {
   "packages": {
     "pikari-inc/pikari-gutenberg-modals": {
+      "2.2.2": {
+        "name": "pikari-inc/pikari-gutenberg-modals",
+        "version": "2.2.2",
+        "description": "Beautiful modal windows for the WordPress block editor.",
+        "type": "wordpress-plugin",
+        "license": "GPL-2.0-or-later",
+        "require": {
+          "php": ">=8.4"
+        },
+        "extra": {
+          "installer-name": "pikari-gutenberg-modals"
+        },
+        "dist": {
+          "type": "zip",
+          "url": "https://github.com/HelloPikari/pikari-gutenberg-modals/releases/download/v2.2.2/pikari-gutenberg-modals-v2.2.2.zip",
+          "reference": "v2.2.2"
+        }
+      },
       "2.2.1": {
         "name": "pikari-inc/pikari-gutenberg-modals",
         "version": "2.2.1",
