@@ -381,6 +381,24 @@
       }
     },
     "pikari-inc/pikari-gutenberg-query-filter": {
+      "0.3.4": {
+        "name": "pikari-inc/pikari-gutenberg-query-filter",
+        "version": "0.3.4",
+        "description": "Filter controls for the query loop block, using the interactivity API.",
+        "type": "wordpress-plugin",
+        "license": "GPL-2.0-or-later",
+        "require": {
+          "php": ">=8.4"
+        },
+        "extra": {
+          "installer-name": "pikari-gutenberg-query-filter"
+        },
+        "dist": {
+          "type": "zip",
+          "url": "https://github.com/HelloPikari/pikari-gutenberg-query-filter/releases/download/v0.3.4/pikari-gutenberg-query-filter-v0.3.4.zip",
+          "reference": "v0.3.4"
+        }
+      },
       "0.3.3": {
         "name": "pikari-inc/pikari-gutenberg-query-filter",
         "version": "0.3.3",
