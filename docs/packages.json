@@ -1,6 +1,24 @@
 {
   "packages": {
     "pikari-inc/pikari-gutenberg-modals": {
+      "2.4.1": {
+        "name": "pikari-inc/pikari-gutenberg-modals",
+        "version": "2.4.1",
+        "description": "Beautiful modal windows for the WordPress block editor.",
+        "type": "wordpress-plugin",
+        "license": "GPL-2.0-or-later",
+        "require": {
+          "php": ">=8.4"
+        },
+        "extra": {
+          "installer-name": "pikari-gutenberg-modals"
+        },
+        "dist": {
+          "type": "zip",
+          "url": "https://github.com/HelloPikari/pikari-gutenberg-modals/releases/download/v2.4.1/pikari-gutenberg-modals-v2.4.1.zip",
+          "reference": "v2.4.1"
+        }
+      },
       "2.4.0": {
         "name": "pikari-inc/pikari-gutenberg-modals",
         "version": "2.4.0",
@@ -417,6 +435,24 @@
       }
     },
     "pikari-inc/pikari-gutenberg-query-filter": {
+      "1.0.2": {
+        "name": "pikari-inc/pikari-gutenberg-query-filter",
+        "version": "1.0.2",
+        "description": "Filter controls for the query loop block, using the interactivity API.",
+        "type": "wordpress-plugin",
+        "license": "GPL-2.0-or-later",
+        "require": {
+          "php": ">=8.4"
+        },
+        "extra": {
+          "installer-name": "pikari-gutenberg-query-filter"
+        },
+        "dist": {
+          "type": "zip",
+          "url": "https://github.com/HelloPikari/pikari-gutenberg-query-filter/releases/download/v1.0.2/pikari-gutenberg-query-filter-v1.0.2.zip",
+          "reference": "v1.0.2"
+        }
+      },
       "1.0.1": {
         "name": "pikari-inc/pikari-gutenberg-query-filter",
         "version": "1.0.1",
@@ -797,6 +833,24 @@
       }
     },
     "pikari-inc/pikari-team": {
+      "1.0.8": {
+        "name": "pikari-inc/pikari-team",
+        "version": "1.0.8",
+        "description": "Team member CPT with digital business cards, PWA card pages and vCard QR codes.",
+        "type": "wordpress-plugin",
+        "license": "GPL-2.0-or-later",
+        "require": {
+          "php": ">=8.4"
+        },
+        "extra": {
+          "installer-name": "pikari-team"
+        },
+        "dist": {
+          "type": "zip",
+          "url": "https://github.com/HelloPikari/pikari-team/releases/download/v1.0.8/pikari-team-v1.0.8.zip",
+          "reference": "v1.0.8"
+        }
+      },
       "1.0.7": {
         "name": "pikari-inc/pikari-team",
         "version": "1.0.7",
